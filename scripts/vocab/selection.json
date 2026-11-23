@@ -1,0 +1,583 @@
+{
+  "_info": "Palabras elegidas por lección. La traducción al español (es) es nuestra; acentos, género y formas salen de OpenRussian; los ejemplos, de Tatoeba. focus = forma que se destaca en la tarjeta (caso de OpenRussian: sg_nom, sg_gen, sg_dat, sg_acc, sg_inst, sg_prep, pl_*) y lo que va delante. noExample: true deja la palabra sin frase de Tatoeba (por ejemplo, cuando todas usan otra acepción).",
+  "lessons": {
+    "prepositivo-1": [
+      {
+        "lemma": "дача",
+        "es": "casa de campo (dacha)",
+        "focus": {
+          "form": "sg_prep",
+          "before": "на"
+        }
+      },
+      {
+        "lemma": "рынок",
+        "es": "mercado",
+        "focus": {
+          "form": "sg_prep",
+          "before": "на"
+        }
+      },
+      {
+        "lemma": "баня",
+        "es": "baño de vapor ruso (bania)",
+        "focus": {
+          "form": "sg_prep",
+          "before": "в"
+        }
+      },
+      {
+        "lemma": "кухня",
+        "es": "cocina",
+        "focus": {
+          "form": "sg_prep",
+          "before": "на"
+        }
+      },
+      {
+        "lemma": "подъезд",
+        "es": "portal de un edificio",
+        "focus": {
+          "form": "sg_prep",
+          "before": "в"
+        }
+      }
+    ],
+    "acusativo-1": [
+      {
+        "lemma": "гречка",
+        "es": "trigo sarraceno (alforfón)",
+        "focus": {
+          "form": "sg_acc",
+          "before": "купить"
+        }
+      },
+      {
+        "lemma": "матрёшка",
+        "es": "matrioska",
+        "focus": {
+          "form": "sg_acc",
+          "before": "купить"
+        }
+      },
+      {
+        "lemma": "самовар",
+        "es": "samovar",
+        "focus": {
+          "form": "sg_acc",
+          "before": "поставить"
+        }
+      },
+      {
+        "lemma": "борщ",
+        "es": "borsch (sopa de remolacha)",
+        "focus": {
+          "form": "sg_acc",
+          "before": "сварить"
+        }
+      },
+      {
+        "lemma": "электричка",
+        "es": "tren de cercanías",
+        "focus": {
+          "form": "sg_acc",
+          "before": "сесть на"
+        }
+      }
+    ],
+    "genitivo-1": [
+      {
+        "lemma": "сметана",
+        "es": "nata agria (smetana)",
+        "focus": {
+          "form": "sg_gen",
+          "before": "без"
+        }
+      },
+      {
+        "lemma": "хлеб",
+        "es": "pan",
+        "focus": {
+          "form": "sg_gen",
+          "before": "нет"
+        }
+      },
+      {
+        "lemma": "квас",
+        "es": "kvas (bebida de pan fermentado)",
+        "focus": {
+          "form": "sg_gen",
+          "before": "стакан"
+        }
+      },
+      {
+        "lemma": "варенье",
+        "es": "mermelada casera",
+        "focus": {
+          "form": "sg_gen",
+          "before": "банка"
+        }
+      },
+      {
+        "lemma": "сахар",
+        "es": "azúcar",
+        "focus": {
+          "form": "sg_gen",
+          "before": "без"
+        }
+      }
+    ],
+    "dativo-1": [
+      {
+        "lemma": "бабушка",
+        "es": "abuela",
+        "focus": {
+          "form": "sg_dat",
+          "before": "к"
+        }
+      },
+      {
+        "lemma": "дедушка",
+        "es": "abuelo",
+        "focus": {
+          "form": "sg_dat",
+          "before": "к"
+        }
+      },
+      {
+        "lemma": "сосед",
+        "es": "vecino",
+        "focus": {
+          "form": "sg_dat",
+          "before": "помогать"
+        }
+      },
+      {
+        "lemma": "подруга",
+        "es": "amiga",
+        "focus": {
+          "form": "sg_dat",
+          "before": "звонить"
+        }
+      },
+      {
+        "lemma": "внук",
+        "es": "nieto",
+        "focus": {
+          "form": "sg_dat",
+          "before": "подарить"
+        }
+      }
+    ],
+    "instrumental-1": [
+      {
+        "lemma": "мёд",
+        "es": "miel",
+        "focus": {
+          "form": "sg_inst",
+          "before": "чай с"
+        }
+      },
+      {
+        "lemma": "малина",
+        "es": "frambuesa",
+        "focus": {
+          "form": "sg_inst",
+          "before": "чай с"
+        }
+      },
+      {
+        "lemma": "укроп",
+        "es": "eneldo",
+        "focus": {
+          "form": "sg_inst",
+          "before": "с"
+        }
+      },
+      {
+        "lemma": "икра",
+        "es": "caviar, huevas",
+        "focus": {
+          "form": "sg_inst",
+          "before": "бутерброд с"
+        }
+      },
+      {
+        "lemma": "блин",
+        "es": "blini (crep ruso)",
+        "focus": {
+          "form": "pl_inst",
+          "before": "чай с"
+        }
+      }
+    ],
+    "repaso-casos-1": [
+      {
+        "lemma": "подарок",
+        "es": "regalo",
+        "focus": {
+          "form": "pl_acc",
+          "before": "дарить"
+        }
+      },
+      {
+        "lemma": "ёлка",
+        "es": "abeto (árbol de Año Nuevo)",
+        "focus": {
+          "form": "sg_prep",
+          "before": "на"
+        }
+      },
+      {
+        "lemma": "праздник",
+        "es": "fiesta, día festivo",
+        "focus": {
+          "form": "sg_inst",
+          "before": "с"
+        }
+      },
+      {
+        "lemma": "гость",
+        "es": "invitado",
+        "focus": {
+          "form": "pl_gen",
+          "before": "много"
+        }
+      },
+      {
+        "lemma": "тост",
+        "es": "brindis",
+        "focus": {
+          "form": "sg_acc",
+          "before": "произнести"
+        }
+      }
+    ],
+    "aspecto-1": [
+      {
+        "lemma": "готовить",
+        "pos": "verb",
+        "es": "cocinar, preparar",
+        "partner": "приготовить"
+      },
+      {
+        "lemma": "покупать",
+        "pos": "verb",
+        "es": "comprar",
+        "partner": "купить"
+      },
+      {
+        "lemma": "звонить",
+        "pos": "verb",
+        "es": "llamar (por teléfono)",
+        "partner": "позвонить"
+      },
+      {
+        "lemma": "убирать",
+        "pos": "verb",
+        "es": "recoger, ordenar",
+        "partner": "убрать"
+      },
+      {
+        "lemma": "пить",
+        "pos": "verb",
+        "es": "beber",
+        "partner": "выпить"
+      }
+    ],
+    "movimiento-1": [
+      {
+        "lemma": "метро",
+        "es": "metro",
+        "focus": {
+          "form": "sg_prep",
+          "before": "в"
+        }
+      },
+      {
+        "lemma": "маршрутка",
+        "es": "marshrutka (microbús)",
+        "focus": {
+          "form": "sg_prep",
+          "before": "на"
+        }
+      },
+      {
+        "lemma": "остановка",
+        "es": "parada",
+        "focus": {
+          "form": "sg_acc",
+          "before": "идти на"
+        }
+      },
+      {
+        "lemma": "вокзал",
+        "es": "estación de tren",
+        "focus": {
+          "form": "sg_acc",
+          "before": "идти на"
+        }
+      },
+      {
+        "lemma": "пробка",
+        "es": "atasco (también «corcho»)",
+        "focus": {
+          "form": "sg_prep",
+          "before": "в"
+        }
+      }
+    ],
+    "cuerpo-1": [
+      {
+        "lemma": "голова",
+        "es": "cabeza",
+        "focus": {
+          "form": "pl_nom"
+        }
+      },
+      {
+        "lemma": "глаз",
+        "es": "ojo",
+        "focus": {
+          "form": "pl_nom"
+        }
+      },
+      {
+        "lemma": "ухо",
+        "es": "oreja, oído",
+        "focus": {
+          "form": "pl_nom"
+        }
+      },
+      {
+        "lemma": "нос",
+        "es": "nariz",
+        "focus": {
+          "form": "pl_nom"
+        }
+      },
+      {
+        "lemma": "рот",
+        "es": "boca",
+        "focus": {
+          "form": "sg_acc",
+          "before": "открыть"
+        }
+      },
+      {
+        "lemma": "рука",
+        "es": "mano, brazo",
+        "focus": {
+          "form": "pl_nom"
+        }
+      },
+      {
+        "lemma": "нога",
+        "es": "pierna, pie",
+        "focus": {
+          "form": "pl_nom"
+        }
+      },
+      {
+        "lemma": "живот",
+        "es": "vientre, barriga",
+        "focus": {
+          "form": "sg_nom",
+          "before": "у меня болит"
+        }
+      },
+      {
+        "lemma": "зуб",
+        "es": "diente",
+        "focus": {
+          "form": "pl_nom"
+        }
+      },
+      {
+        "lemma": "спина",
+        "es": "espalda",
+        "focus": {
+          "form": "sg_nom",
+          "before": "у меня болит"
+        }
+      }
+    ],
+    "casos-plural-1": [
+      {
+        "lemma": "деньги",
+        "es": "dinero (solo en plural)",
+        "focus": {
+          "form": "pl_gen",
+          "before": "нет"
+        }
+      },
+      {
+        "lemma": "часы",
+        "es": "reloj (solo en plural)",
+        "focus": {
+          "form": "pl_gen",
+          "before": "нет"
+        }
+      },
+      {
+        "lemma": "очки",
+        "es": "gafas",
+        "focus": {
+          "form": "pl_gen",
+          "before": "нет"
+        }
+      },
+      {
+        "lemma": "брюки",
+        "es": "pantalones",
+        "focus": {
+          "form": "pl_gen",
+          "before": "нет"
+        }
+      },
+      {
+        "lemma": "щи",
+        "es": "shchi (sopa de col)",
+        "focus": {
+          "form": "pl_gen",
+          "before": "тарелка"
+        }
+      }
+    ],
+    "movimiento-2": [
+      {
+        "lemma": "автобус",
+        "es": "autobús",
+        "focus": {
+          "form": "sg_prep",
+          "before": "на"
+        }
+      },
+      {
+        "lemma": "поезд",
+        "es": "tren",
+        "focus": {
+          "form": "sg_prep",
+          "before": "на"
+        }
+      },
+      {
+        "lemma": "самолёт",
+        "es": "avión",
+        "focus": {
+          "form": "sg_prep",
+          "before": "на"
+        }
+      },
+      {
+        "lemma": "такси",
+        "es": "taxi",
+        "focus": {
+          "form": "sg_prep",
+          "before": "на"
+        }
+      },
+      {
+        "lemma": "трамвай",
+        "es": "tranvía",
+        "focus": {
+          "form": "sg_prep",
+          "before": "на"
+        }
+      }
+    ],
+    "comunicacion-1": [
+      {
+        "lemma": "имя",
+        "es": "nombre (de pila)",
+        "focus": {
+          "form": "sg_nom",
+          "before": "моё"
+        }
+      },
+      {
+        "lemma": "фамилия",
+        "es": "apellido",
+        "focus": {
+          "form": "sg_nom",
+          "before": "моя"
+        }
+      },
+      {
+        "lemma": "отчество",
+        "es": "patronímico (nombre del padre + -вич / -вна)",
+        "focus": {
+          "form": "sg_nom",
+          "before": "моё"
+        }
+      },
+      {
+        "lemma": "возраст",
+        "es": "edad",
+        "focus": {
+          "form": "sg_nom",
+          "before": "мой"
+        }
+      },
+      {
+        "lemma": "профессия",
+        "es": "profesión",
+        "focus": {
+          "form": "sg_dat",
+          "before": "по"
+        }
+      }
+    ],
+    "compras-1": [
+      {
+        "lemma": "рубль",
+        "es": "rublo",
+        "focus": {
+          "form": "pl_gen",
+          "before": "пять"
+        }
+      },
+      {
+        "lemma": "сдача",
+        "es": "cambio (dinero que te devuelven)",
+        "focus": {
+          "form": "sg_gen",
+          "before": "без"
+        }
+      },
+      {
+        "lemma": "чек",
+        "es": "tique, recibo",
+        "focus": {
+          "form": "sg_acc",
+          "before": "дайте"
+        },
+        "noExample": true
+      },
+      {
+        "lemma": "пакет",
+        "es": "bolsa (también «paquete»)",
+        "focus": {
+          "form": "sg_nom",
+          "before": "нужен"
+        }
+      },
+      {
+        "lemma": "скидка",
+        "es": "descuento",
+        "focus": {
+          "form": "sg_inst",
+          "before": "со"
+        }
+      }
+    ]
+  },
+  "_skipExamplesInfo": "Frases de Tatoeba descartadas tras revisión: modismo poco útil (5709246), traducción con otra palabra (4694036: укроп≠hinojo; 3864667: тост=tostada, no brindis) y traducción forzada (8699266). También 14121637: usa чек como «cheque», no «tique».",
+  "skipExampleIds": [
+    5709246,
+    4694036,
+    3864667,
+    8699266,
+    14121637
+  ]
+}
